@@ -1,0 +1,2 @@
+br/leonardo/listadeexercicios01/BuildConfig.java
+ br.leonardo.listadeexercicios01.BuildConfig
